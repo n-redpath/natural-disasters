@@ -10,3 +10,10 @@ Each file is our code, excluding a few lines which are cited within the code, an
 - geojson-counties-fips.json is a datasource that creates county geometries that we can add to the map. it is taken from
 - https://github.com/plotly/datasets/blob/master/geojson-counties-fips.json
 - StatesData.js is a file that creates state outline geometries. it is taken from Leaflet.io
+
+
+
+MISSING FROM REPO: 
+Node-modules folder containing D3
+.git
+.vscode
